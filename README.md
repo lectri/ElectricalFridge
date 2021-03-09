@@ -34,3 +34,10 @@ The following instructions depend on your OS.
 5. Make sure the forge installation is chosen, (it has an anvil logo on it)
 6. Click Play
 
+## Updating
+
+To update, you must delete the old version of your folder in the Minecraft folder, and then follow the instructions for setup.
+
+## Issues
+
+In the issues tab you may either reccomend a mod or post an issue with a mod. Make sure you have a Github Account though.
