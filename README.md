@@ -7,7 +7,9 @@ DOES NOT WORK WITH BEDROCK! Even on the Windows 10 Edition.
 ## Setup
 1. Install forge 1.12.2 [here.](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 2. Press the green download button and extract the .zip, the option should pop up if you right click the folder.
-3. Ctrl + X (Windows) or CMD + X (Mac).
+3. Ctrl + C (Windows) or CMD + C (Mac) on the folder.
+
+We will now move the folder, so minecraft can use our mods.
 
 The following instructions depend on your OS.
 
