@@ -9,7 +9,7 @@ DOES NOT WORK WITH BEDROCK! Even on the Windows 10 Edition.
 2. Press the green download button and extract the .zip, the option should pop up if you right click the folder.
 3. Ctrl + C (Windows) or CMD + C (Mac) on the folder.
 
-We will now move the folder, so minecraft can use our mods.
+We will now move the folder, so minecraft can use our mods. YOU DON'T NEED TO MOVE THE README, OR THE VERSIONS.MD. ONLY THE MODS FOLDER.
 
 The following instructions depend on your OS.
 
